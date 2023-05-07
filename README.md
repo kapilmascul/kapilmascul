@@ -7,7 +7,7 @@
 ### An Aspiring Full Stack developer who is much interested in Web Development, possess skills in Node.js, express.js, databases like MongoDB & MySQL and in memory DB like Redis.
 ### Proficient in Vanilla JavaScript, HTML & CSS and basic knowledge in React.js, TypeScript and AWS as well.
  
-### Worked on multiple Industry Level projects by Cloning [bitly.com](https://sunny-taiyaki-8521ce.netlify.app/), [finishline.com](https://earnest-faun-c6846e.netlify.app/), [Dell.com](https://dellprojecttest.netlify.app/), [craftsvilla.com](https://dainty-heliotrope-77ee95.netlify.app/).
+### Worked on multiple Industry Level projects by Cloning [bitly.com](https://sunny-taiyaki-8521ce.netlify.app/), [finishline.com](https://earnest-faun-c6846e.netlify.app/), [interntheory.com](https://curious-cheesecake-b0381e.netlify.app/), [craftsvilla.com](https://dainty-heliotrope-77ee95.netlify.app/).
 
 
 ## My Skillset:
