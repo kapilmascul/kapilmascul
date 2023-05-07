@@ -1,7 +1,7 @@
 <!-- ## ![Blue Gradient Header Banner (1)](https://user-images.githubusercontent.com/112754832/215061523-7e21b628-bc42-418e-98cf-e58bb3912026.png) -->
 <img alt="Coder GIF" height=350 width=80% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Dhaanu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&width=435&lines=Hi+there%2C+I+am+Kabilan)](https://git.io/typing-svg)
 
 
 ### An Aspiring Full Stack developer who is much interested in Web Development, possess skills in Node.js, express.js, databases like MongoDB & MySQL and in memory DB like Redis.
